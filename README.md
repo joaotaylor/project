@@ -1,2 +1,2 @@
-# webproffy
+# Project
 Project react
